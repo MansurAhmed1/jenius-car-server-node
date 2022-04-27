@@ -145,5 +145,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("listening to port variable");
+  console.log("listening  port variable");
 });
